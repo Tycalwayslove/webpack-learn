@@ -1,0 +1,14 @@
+{
+  "name": "webpack_tyc",
+  "version": "1.0.0",
+  "description": "hahaha,learn webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "tangyouchao",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^3.8.0"
+  }
+}
